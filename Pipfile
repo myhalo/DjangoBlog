@@ -1,6 +1,6 @@
 [[source]]
 name = "pypi"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple/"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
 verify_ssl = true
 
 [dev-packages]
@@ -9,4 +9,4 @@ verify_ssl = true
 django = "==2.2.3"
 
 [requires]
-python_version = "3.7"
+python_version = "3.6"
